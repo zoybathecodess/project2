@@ -1,4 +1,7 @@
 #include<stdio.h>
 int main(){
 printf("hello github");
+for (int i=0;i<=5;i++){
+printf(i);
+}
 }
